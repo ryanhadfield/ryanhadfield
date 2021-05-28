@@ -10,7 +10,7 @@
 
 ---
 
-![profile](./githubprofile.png)
+![profile](./githubprofile2.png)
 
 
 <!--
