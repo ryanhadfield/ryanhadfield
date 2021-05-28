@@ -1,5 +1,5 @@
 ## Hi there 👋 - I'm Ryan!
-![profile](./githubprofile-logos.png)
+![profile](./githubprofile-logos2.png)
 
 ## I'm a Full Stack Web Engineer with 10+ years in:
 - Marketing
