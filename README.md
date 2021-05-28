@@ -1,16 +1,20 @@
-### Hi there 👋 - I'm Ryan!
+## Hi there 👋 - I'm Ryan!
+![profile](./githubprofile-logos.png)
 
-## Full Stack Web Developer with 10+ years in marketing, project management, sales, and product development.
-### Actively seeking new opportunities
+## I'm a Full Stack Web Engineer with 10+ years in:
+- Marketing
+- Project management
+- Sales 
+- Product development
+## Actively seeking new opportunities
 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhadfield&theme=highcontrast&show_icons=true)
 
 
----
 
-![profile](./githubprofile2.png)
+
 
 
 <!--
