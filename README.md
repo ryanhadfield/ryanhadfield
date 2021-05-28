@@ -7,7 +7,7 @@
 ---
 ![profile](./githubprofile.png)
 
-[![Ryan Hadfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhadfield&theme=vue-dark&show_icons=true)
+[![Ryan Hadfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhadfield&theme=yeblu&show_icons=true)
 
 
 <!--
