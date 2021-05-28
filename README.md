@@ -1,6 +1,7 @@
 ### Hi there 👋 - I'm Ryan!
 
-## Full Stack Web Engineer | Product Development, Marketing, Sales, & Supply Chain Professional | Actively seeking new opportunities
+## Full Stack Web Developer with 10+ years in marketing, project management, sales, and product development.
+### Actively seeking new opportunities
 
 
 ---
