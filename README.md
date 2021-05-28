@@ -3,16 +3,14 @@
 ## Full Stack Web Developer with 10+ years in marketing, project management, sales, and product development.
 ### Actively seeking new opportunities
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhadfield&theme=highcontrast&show_icons=true)
+
 
 ---
-![profile](./githubprofile.png)
 
-<a href="https://github.com/ryanhadfield/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanhadfielda&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ryanhadfield/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanhadfield&repo=n-devr" />
-</a>
+![profile](./githubprofile.png)
 
 
 <!--
