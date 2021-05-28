@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there 👋 - I'm Ryan!
+
+Full Stack Web Engineer | Product Development, Marketing, Sales, & Supply Chain Professional | Actively seeking new opportunities
+
+
 ---
 ![profile](./githubprofile.png)
 
-[![Ryan Hadfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhadfield)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan Hadfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhadfield&theme=vue-dark_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
